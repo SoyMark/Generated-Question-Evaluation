@@ -1,0 +1,8 @@
+{'final_score': '0.977', 'answerability_score': '0.988', 'inference_score': '0.962', 'grammar_score': '1.000', 'question': 'what kind of drink did the mysterious stranger drink', 'answer': 'lemonade'}
+{'final_score': '0.839', 'answerability_score': '0.711', 'inference_score': '0.851', 'grammar_score': '1.000', 'question': 'what did the mysterious stranger put in his tote bag', 'answer': 'sunscreen'}
+{'final_score': '0.821', 'answerability_score': '0.636', 'inference_score': '0.861', 'grammar_score': '1.000', 'question': 'what does the mysterious stranger look like', 'answer': 'tourist'}
+{'final_score': '0.750', 'answerability_score': '0.562', 'inference_score': '0.763', 'grammar_score': '1.000', 'question': 'what was the purpose of the mysterious stranger', 'answer': 'rob a jewelry store'}
+{'final_score': '0.631', 'answerability_score': '0.653', 'inference_score': '0.471', 'grammar_score': '1.000', 'question': 'what kind of chowder did the mysterious stranger bring', 'answer': 'clam chowder'}
+{'final_score': '0.449', 'answerability_score': '0.518', 'inference_score': '0.187', 'grammar_score': '1.000', 'question': 'where did the mysterious stranger meet me', 'answer': 'shady dance club'}
+{'final_score': '0.261', 'answerability_score': '0.000', 'inference_score': '0.122', 'grammar_score': '1.000', 'question': 'where did the mysterious stranger get his money from', 'answer': 'The car accident'}
+{'final_score': '0.261', 'answerability_score': '0.000', 'inference_score': '0.122', 'grammar_score': '1.000', 'question': 'where did the mysterious stranger get his money from', 'answer': 'The car accident'}

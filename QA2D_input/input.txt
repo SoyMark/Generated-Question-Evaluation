@@ -1,0 +1,8 @@
+question: what kind of drink did the mysterious stranger drink answer: lemonade
+question: what does the mysterious stranger look like answer: tourist
+question: where did the mysterious stranger get his money from answer: The car accident
+question: where did the mysterious stranger get his money from answer: The car accident
+question: where did the mysterious stranger meet me answer: shady dance club
+question: what kind of chowder did the mysterious stranger bring answer: clam chowder
+question: what did the mysterious stranger put in his tote bag answer: sunscreen
+question: what was the purpose of the mysterious stranger answer: rob a jewelry store
